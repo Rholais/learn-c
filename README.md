@@ -4,4 +4,7 @@ C is the lowest-level language most programmers will ever use, but it more than 
 
 ##	Recommended Reading Order
 
-1.	hello
+1.	[Hello World][hello]
+
+
+[hello]: https://github.com/Rholais/LearnC/tree/master/hello "LearnC/hello at master"
