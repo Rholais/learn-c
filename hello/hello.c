@@ -22,7 +22,7 @@ int main()
   printf("它\t可以\t使\t输出\t变得\t整齐\n\n");
   printf("其他常用特殊字符：\n");
   printf("\\\'\t单引号\'\n");
-  printf("\\0\tnull，字符串结尾标示符\n");
+  printf("\\0\t(null)，字符串结尾标示符\n");
   printf("\\\?\t问号\?\n");
   printf("\\b\t退格符(backspace)\n");
   printf("\\r\t回车符(return)\n");
