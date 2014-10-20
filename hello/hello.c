@@ -24,6 +24,8 @@ int main()
   printf("\\\'\t单引号\'\n");
   printf("\\0\t(null)，字符串结尾标示符\n");
   printf("\\\?\t问号\?\n");
+  // REMEMBER: a backspace sign can ONLY 
+  // move the cursor in the current line.
   printf("\\b\t退格符(backspace)\n");
   printf("\\r\t回车符(return)\n");
   //返回使用 return 关键字
