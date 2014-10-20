@@ -34,7 +34,7 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 >	另一个	重要	symbol	是	制表符\t  
 >	它	可以	使	输出	变得	整齐  
 >	其他常用特殊字符：  
-> \'  单引号'  
+>	\'	单引号'  
 >	\0	(null)，字符串结尾标示符  
 >	\?	问号?  
 >	\b	退格符(backspace)  
