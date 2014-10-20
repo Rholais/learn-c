@@ -8,7 +8,7 @@ C is the lowest-level language most programmers will ever use, but it more than 
 
 ##	Platform Infomation
 
-All these codes have been tested by my `Deepin 2014.1`.
+All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 
 >	$ uname -r  
 >	3.13.0-37-generic
@@ -24,3 +24,4 @@ All these codes have been tested by my `Deepin 2014.1`.
 
 
 [hello]: https://github.com/Rholais/LearnC/tree/master/hello "LearnC/hello at master"
+[deepin]: http://cdimage.linuxdeepin.com/releases/2014.1/deepin_2014.1_amd64.iso "deepin_2014.1_amd64.iso"
