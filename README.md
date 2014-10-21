@@ -5,6 +5,7 @@ C is the lowest-level language most programmers will ever use, but it more than 
 ##	Recommended Reading Order
 
 1.	[Hello World][hello]
+2.	[Fundamental Types][types]
 
 ##	Platform Infomation
 
@@ -24,4 +25,6 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 
 
 [hello]: https://github.com/Rholais/LearnC/tree/master/hello "LearnC/hello at master"
+[types]: https://github.com/Rholais/LearnC/tree/master/types "LearnC/types at master"
+
 [deepin]: http://cdimage.linuxdeepin.com/releases/2014.1/deepin_2014.1_amd64.iso "deepin_2014.1_amd64.iso"
