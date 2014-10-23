@@ -6,6 +6,7 @@ Introducing the use of `\` in a string.
 
 1.	Hello World
 2.	[Fundamental Types][types]
+3.	[Formatted Output][wprintf]
 
 ##	Platform Infomation
 
@@ -44,5 +45,6 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 
 [hello]: https://github.com/Rholais/LearnC/tree/master/hello "LearnC/hello at master"
 [types]: https://github.com/Rholais/LearnC/tree/master/types "LearnC/types at master"
+[wprintf]: https://github.com/Rholais/LearnC/tree/master/wprintf "LearnC/wprintf at master"
 
 [deepin]: http://cdimage.linuxdeepin.com/releases/2014.1/deepin_2014.1_amd64.iso "deepin_2014.1_amd64.iso"
