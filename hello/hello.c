@@ -1,5 +1,5 @@
 // hello.c
-// This program uses the printf functions
+// This program uses the printf function
 // to introduce the uses of '\' in strings.
 
 // 单行注释以//开始。（仅适用于C99或更新的版本。）
