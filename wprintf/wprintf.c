@@ -1,5 +1,5 @@
 // wprintf.c
-// This program uses the wprintf functions
+// This program uses the wprintf function
 // to produce formatted output.
 
 #include <stdio.h>
