@@ -1,3 +1,7 @@
+// types.c
+// This program uses the sizeof keyword
+// to introduce foundamental types.
+
 #include <stdio.h>
 
 int main()
