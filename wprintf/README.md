@@ -1,12 +1,12 @@
-#Fundamental Types
+#Formatted Output
 
-Demonstrating the size of fundamental types and it's use in `printf` function.
+Demonstrating the use of `wprintf`.
 
 ##	Recommended Reading Order
 
 1.	[Hello World][hello]
-2.	Fundamental Types
-3.	[Formatted Output][wprintf]
+2.	[Fundamental Types][types]
+3.	Formatted Output
 
 ##	Platform Infomation
 
@@ -26,14 +26,23 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 
 ##	Running Result
 
->	sizeof(char)	= 1, where it = A  
->	sizeof(int)	= 4, where it = 305419896  
->	sizeof(short)	= 2, where it = 0x1234 = 4660 = 011064  
->	sizeof(long)	= 8, where it = 0x1234567890123456  
->	sizeof(long long)	 = 8, where it = 1311768467284833366  
->	sizeof(float)	= 4, where it = 3.141593  
->	sizeof(double)	= 8, where it = 2.718285  
->	sizeof(a++)	= 4, where a = 1
+>	Integer formats:  
+>	   Decimal: -9234  Justified: -009234  Unsigned: 4294958062  
+>	Decimal -9234 as:  
+>	   Hex: FFFFDBEEh  C hex: 0xffffdbee  Octal: 37777755756  
+>	Digits 10 equal: 
+>	   Hex: 16  Octal: 8  Decimal: 10  
+>	Characters:  
+>	         h    h    位    位  
+>	Strings:  
+>	                 computer  
+>	                     comp  
+>	   8位变长万国码格式                      8位变  
+>	Real numbers:  
+>	   251.736600 251.74 2.517366e+02 2.517366E+02  
+>	
+>	Address as:   0x7fffe6f277a0  
+
 
 
 [hello]: https://github.com/Rholais/LearnC/tree/master/hello "LearnC/hello at master"
