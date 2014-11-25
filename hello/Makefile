@@ -1,15 +1,13 @@
-all: $(main)
+all: hello
 
-main := hello
-
-$(main): $(main).o
+hello: hello.o
 	gcc $^ -o $@
 
-$(main).o: 
+hello.o: 
 
 clean:
 	@echo "cleaning project"
-	rm $(main) *.o *~
+	rm hello *.o *~
 	@echo "clean completed"
 
 .PHONY: clean

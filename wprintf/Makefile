@@ -1,15 +1,13 @@
-all: $(main)
+all: wprintf
 
-main := wprintf
-
-$(main): $(main).o
+wprintf: wprintf.o
 	gcc $^ -o $@
 
-$(main).o: 
+wprintf.o: 
 
 clean:
 	@echo "cleaning project"
-	rm $(main) *.o *~
+	rm wprintf *.o *~
 	@echo "clean completed"
 
 .PHONY: clean

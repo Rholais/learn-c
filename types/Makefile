@@ -1,15 +1,13 @@
-all: $(main)
+all: types
 
-main := types
-
-$(main): $(main).o
+types: types.o
 	gcc $^ -o $@
 
-$(main).o: 
+types.o: 
 
 clean:
 	@echo "cleaning project"
-	rm $(main) *.o *~
+	rm types *.o *~
 	@echo "clean completed"
 
 .PHONY: clean
