@@ -27,8 +27,19 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 
 ##	Running Result
 
+>	i1 = 1;
+>	i2 = 2;
+>	i1 + i2 = 3;
+>	i1 - i2 = -1;
+>	i1 * i2 = 2;
+>	i1 / i2 = 0;
+>	f1 / f2 = 0.500000;
+>	11 % 3 = 2;
+
+
 [hello]: https://github.com/Rholais/LearnC/tree/master/hello "LearnC/hello at master"
 [types]: https://github.com/Rholais/LearnC/tree/master/types "LearnC/types at master"
 [wprintf]: https://github.com/Rholais/LearnC/tree/master/wprintf "LearnC/wprintf at master"
+[operators]: https://github.com/Rholais/LearnC/tree/master/operators "LearnC/operators at master"
 
 [deepin]: http://cdimage.linuxdeepin.com/releases/2014.1/deepin_2014.1_amd64.iso "deepin_2014.1_amd64.iso"
