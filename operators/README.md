@@ -27,14 +27,14 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 
 ##	Running Result
 
->	i1 = 1;
->	i2 = 2;
->	i1 + i2 = 3;
->	i1 - i2 = -1;
->	i1 * i2 = 2;
->	i1 / i2 = 0;
->	f1 / f2 = 0.500000;
->	11 % 3 = 2;
+>	i1 = 1; 
+>	i2 = 2; 
+>	i1 + i2 = 3; 
+>	i1 - i2 = -1; 
+>	i1 * i2 = 2; 
+>	i1 / i2 = 0; 
+>	f1 / f2 = 0.500000; 
+>	11 % 3 = 2; 
 
 
 [hello]: https://github.com/Rholais/LearnC/tree/master/hello "LearnC/hello at master"
