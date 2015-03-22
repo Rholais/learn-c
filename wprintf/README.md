@@ -1,6 +1,6 @@
 #Formatted Output
 
-Demonstrating the use of `wprintf`.
+Demonstrating the usage of `wprintf`.
 
 ##	Recommended Reading Order
 
