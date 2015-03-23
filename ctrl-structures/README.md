@@ -28,6 +28,12 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 
 ##	Running Result
 
+>	I print>	
+>	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,  
+>	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,   
+>	0, 1, 2, 3, 4, 5, 6, 7, 8, 9    
+>	error!  
+
 
 [hello]: https://github.com/Rholais/LearnC/tree/master/hello "LearnC/hello at master"
 [types]: https://github.com/Rholais/LearnC/tree/master/types "LearnC/types at master"
