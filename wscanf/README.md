@@ -8,8 +8,8 @@ Demonstrating the usage of control structures.
 2.	[Fundamental Types][types]
 3.	[Formatted Output][wprintf]
 4.	[Operators][operators]
-5.  [Control Structures][ctrl]
-6.  Formatted Input
+5.	[Control Structures][ctrl]
+6.	Formatted Input
 
 ##	Platform Infomation
 

@@ -9,6 +9,7 @@ Introducing the use of `\` in a string.
 3.	[Formatted Output][wprintf]
 4.	[Operators][operators]
 5.	[Contorl Structures][ctrl]
+6.	[Formatted Input][wscanf]
 
 ##	Platform Infomation
 
@@ -50,6 +51,7 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 [wprintf]: https://github.com/Rholais/LearnC/tree/master/wprintf "LearnC/wprintf at master"
 [operators]: https://github.com/Rholais/LearnC/tree/master/operators "LearnC/operators at master"
 [ctrl]: https://github.com/Rholais/LearnC/tree/master/ctrl-structures "LearnC/ctrl-structures at master"
+[wscanf]: https://github.com/Rholais/LearnC/tree/master/wscanf "LearnC/wscanf at master"
 
 
 [deepin]: http://cdimage.linuxdeepin.com/releases/2014.1/deepin_2014.1_amd64.iso "deepin_2014.1_amd64.iso"
