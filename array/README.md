@@ -30,11 +30,11 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 
 ##	Running Result
 
-> 2
-> Enter the array size: 34       
-> sizeof array = 136
-> This is a string
-> 0
+> 2  
+> Enter the array size: 34         
+> sizeof array = 136  
+> This is a string  
+> 0  
 
 
 [hello]:  https://github.com/Rholais/LearnC/tree/master/hello "LearnC/hello at master"
