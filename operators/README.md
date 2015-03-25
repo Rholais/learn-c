@@ -10,6 +10,7 @@ Demonstrating the usage of operators.
 4.	Operators
 5.	[Contorl Structures][ctrl]
 6.	[Formatted Input][wscanf]
+7.	[Array][array]
 
 ##	Platform Infomation
 
@@ -45,5 +46,6 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 [operators]: https://github.com/Rholais/LearnC/tree/master/operators "LearnC/operators at master"
 [ctrl]: https://github.com/Rholais/LearnC/tree/master/ctrl-structures "LearnC/ctrl-structures at master"
 [wscanf]: https://github.com/Rholais/LearnC/tree/master/wscanf "LearnC/wscanf at master"
+[array]:  https://github.com/Rholais/LearnC/tree/master/array "LearnC/array at master"
 
 [deepin]: http://cdimage.linuxdeepin.com/releases/2014.1/deepin_2014.1_amd64.iso "deepin_2014.1_amd64.iso"
