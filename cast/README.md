@@ -31,6 +31,19 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 
 ##	Running Result
 
+> 18
+> 18
+> 18
+> 1
+> CHAR_BIT	= 8
+> SHRT_MIN	= -32768
+> INT_MAX	= 2147483647
+> 100.000000
+> 100.000000
+> 100
+> x = -21 
+
+
 [hello]:  https://github.com/Rholais/LearnC/tree/master/hello "LearnC/hello at master"
 [types]:  https://github.com/Rholais/LearnC/tree/master/types "LearnC/types at master"
 [wprintf]:  https://github.com/Rholais/LearnC/tree/master/wprintf "LearnC/wprintf at master"
