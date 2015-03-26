@@ -11,7 +11,7 @@ Demonstrating the way of type casting.
 5.	[Control Structures][ctrl]
 6.	[Formatted Input][wscanf]
 7.	[Array][array]
-8.  Type Casting
+8.	Type Casting
 
 ##	Platform Infomation
 
