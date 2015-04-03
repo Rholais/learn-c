@@ -32,6 +32,18 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 
 ##	Running Result
 
+>	0x7fffe1b9ce00
+>	0x7fffe1b9ce00
+>	8, 4
+>	0
+>	1
+>	1
+>	40, 8, 4
+>	19
+>	19
+>	0
+>	T
+
 
 [hello]: https://github.com/Rholais/LearnC/tree/master/hello "LearnC/hello at master"
 [types]: https://github.com/Rholais/LearnC/tree/master/types "LearnC/types at master"
