@@ -11,6 +11,8 @@ C is the lowest-level language most programmers will ever use, but it more than 
 5.	[Control Structures][ctrl]
 6.	[Formatted Input][wscanf]
 7.	[Array][array]
+8.	[Type Casting][cast]
+9.	[Pointers][ptr]
 
 ##	Platform Infomation
 
@@ -36,5 +38,7 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 [ctrl]: https://github.com/Rholais/LearnC/tree/master/ctrl-structures "LearnC/ctrl-structures at master"
 [wscanf]: https://github.com/Rholais/LearnC/tree/master/wscanf "LearnC/wscanf at master"
 [array]:  https://github.com/Rholais/LearnC/tree/master/array "LearnC/array at master"
+[cast]: https://github.com/Rholais/LearnC/tree/master/cast "LearnC/cast at master"
+[ptr]: https://github.com/Rholais/LearnC/tree/master/ptr "LearnC/ptr at master"
 
 [deepin]: http://cdimage.linuxdeepin.com/releases/2014.1/deepin_2014.1_amd64.iso "deepin_2014.1_amd64.iso"
