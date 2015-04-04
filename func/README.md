@@ -13,7 +13,7 @@ Demonstrating the usage of function.
 7.	[Array][array]
 8.	[Type Casting][cast]
 9.	[Pointers][ptr]
-10. Functions
+10.	Functions
 
 ##	Platform Infomation
 

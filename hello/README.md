@@ -13,6 +13,7 @@ Introducing the use of `\` in a string.
 7.	[Array][array]
 8.	[Type Casting][cast]
 9.	[Pointers][ptr]
+10.	[Functions][func]
 
 ##	Platform Infomation
 
@@ -58,5 +59,6 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 [array]:  https://github.com/Rholais/LearnC/tree/master/array "LearnC/array at master"
 [cast]: https://github.com/Rholais/LearnC/tree/master/cast "LearnC/cast at master"
 [ptr]: https://github.com/Rholais/LearnC/tree/master/ptr "LearnC/ptr at master"
+[func]: https://github.com/Rholais/LearnC/tree/master/func "LearnC/func at master"
 
 [deepin]: http://cdimage.linuxdeepin.com/releases/2014.1/deepin_2014.1_amd64.iso "deepin_2014.1_amd64.iso"
