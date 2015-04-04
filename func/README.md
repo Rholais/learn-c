@@ -33,10 +33,7 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 
 ##	Running Result
 
->	按以下顺序输入："整型	浮点型	字符	宽字符	字符串	宽字符串"  
->	12 3.4 q 我 er 天谕  
->	The number of fields input is 6  
->	The contents are: 12 3.400000 q 我 er 天谕  
+>	.tset a si sihT
 
 
 [hello]:  https://github.com/Rholais/LearnC/tree/master/hello "LearnC/hello at master"
