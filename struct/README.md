@@ -14,7 +14,7 @@ Demonstrating user defined types and structs.
 8.	[Type Casting][cast]
 9.	[Pointers][ptr]
 10.	[Functions][func]
-11. User Defined Types and Structs
+11.	User Defined Types and Structs
 
 ##	Platform Infomation
 
