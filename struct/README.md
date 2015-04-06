@@ -34,6 +34,13 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 
 ##	Running Result
 
+> sizeof(struct X) = 12   
+> alignof(struct X) = 4   
+> sizeof(struct Y) = 8   
+> alignof(struct Y) = 4   
+> sizeof(struct Z) = 8   
+> alignof(struct Z) = 4   
+
 
 [hello]: https://github.com/Rholais/LearnC/tree/master/hello "LearnC/hello at master"
 [types]: https://github.com/Rholais/LearnC/tree/master/types "LearnC/types at master"
