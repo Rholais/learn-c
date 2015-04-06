@@ -14,6 +14,7 @@ Demonstrating the way of type casting.
 8.	Type Casting
 9.	[Pointers][ptr]
 10.	[Functions][func]
+11.	[User Defined Types and Structs][struct]
 
 ##	Platform Infomation
 
