@@ -15,6 +15,7 @@ Demonstrating the usage of control structures.
 9.	[Pointers][ptr]
 10.	[Functions][func]
 11.	[User Defined Types and Structs][struct]
+12.	[Function Pointer][fp]
 
 ##	Platform Infomation
 
@@ -51,6 +52,7 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 [ptr]: https://github.com/Rholais/LearnC/tree/master/ptr "LearnC/ptr at master"
 [func]: https://github.com/Rholais/LearnC/tree/master/func "LearnC/func at master"
 [struct]: https://github.com/Rholais/LearnC/tree/master/struct "LearnC/struct at master"
+[fp]: https://github.com/Rholais/learn-c/tree/master/fp "learn-c/fp at master"
 
 [deepin]: http://cdimage.linuxdeepin.com/releases/2014.1/deepin_2014.1_amd64.iso "deepin_2014.1_amd64.iso"
 
