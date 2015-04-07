@@ -35,6 +35,8 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 
 ##	Running Result
 
+> .tset a si sihT
+
 
 [hello]:  https://github.com/Rholais/LearnC/tree/master/hello "LearnC/hello at master"
 [types]:  https://github.com/Rholais/LearnC/tree/master/types "LearnC/types at master"
