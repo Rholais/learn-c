@@ -16,6 +16,7 @@ Demonstrating the usage of `wprintf`.
 10.	[Functions][func]
 11.	[User Defined Types and Structs][struct]
 12.	[Function Pointer][fp]
+13.	[Random-Number Generator][rand]
 
 ##	Platform Infomation
 
@@ -66,5 +67,6 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 [func]: https://github.com/Rholais/learn-c/tree/master/func "learn-c/func at master"
 [struct]: https://github.com/Rholais/learn-c/tree/master/struct "learn-c/struct at master"
 [fp]: https://github.com/Rholais/learn-c/tree/master/fp "learn-c/fp at master"
+[rand]: https://github.com/Rholais/learn-c/tree/master/rand "learn-c/fp at rand"
 
 [deepin]: http://cdimage.linuxdeepin.com/releases/2014.1/deepin_2014.1_amd64.iso "deepin_2014.1_amd64.iso"

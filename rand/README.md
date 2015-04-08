@@ -16,7 +16,7 @@ This program seeds the random-number generator with the time, then exercises the
 10.	[Functions][func]
 11.	[User Defined Types and Structs][struct]
 12.	[Function Pointer][fp]
-13. Random-Number Generator
+13.	Random-Number Generator
 
 ##	Platform Infomation
 
@@ -36,27 +36,27 @@ All these codes have been tested by my [Deepin 2014.1 amd64][deepin].
 
 ##	Running Result
 
-> 1160848373  
-> 1126311783  
-> 1096168987  
->  931701743  
->  985044003  
-> 1487102401  
->  435915312  
-> 1242471084  
-> 1078077126  
->   99627463  
->   
->        -27  
->        -39  
->         88  
->         84  
->          1  
->        -33  
->          0  
->         27  
->        -15  
->        -18  
+>	1160848373  
+>	1126311783  
+>	1096168987  
+>	 931701743  
+>	 985044003  
+>	1487102401  
+>	 435915312  
+>	1242471084  
+>	1078077126  
+>	  99627463  
+>	  
+>	       -27  
+>	       -39  
+>	        88  
+>	        84  
+>	         1  
+>	       -33  
+>	         0  
+>	        27  
+>	       -15  
+>	       -18  
   
 
 [hello]:  https://github.com/Rholais/learn-c/tree/master/hello "learn-c/hello at master"
